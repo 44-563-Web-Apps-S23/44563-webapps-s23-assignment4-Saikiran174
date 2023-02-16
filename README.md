@@ -2,5 +2,8 @@
 A practice assignment for HTML with CSS
 
 
-<p>Hosted at <a href="play.html">MAIN PAGE</a><p>
+
+
+Hosted at <a href="https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment4-Saikiran174/">play page</a>
+
 
