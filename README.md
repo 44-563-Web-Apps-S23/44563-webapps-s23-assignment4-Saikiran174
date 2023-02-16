@@ -3,5 +3,5 @@ A practice assignment for HTML with CSS
 
 
 
-Hosted at <a href="file:///C:/Users/s559448/OneDrive%20-%20nwmissouri.edu/Documents/webapps-repos/44563-webapps-s23-assignment4-Saikiran174/secondact.html">play page</a>
+Hosted at <a href="https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment4-Saikiran174/">play page</a>
 
